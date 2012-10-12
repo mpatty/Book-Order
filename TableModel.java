@@ -1,8 +1,4 @@
-/*
- * Final Project Marita Patricia (Patty) Zapata G00532697
- * IT308
- * Professor Rajendra
- */
+
 
 import java.util.ArrayList;
 import java.util.List;
