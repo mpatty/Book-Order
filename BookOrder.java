@@ -1,8 +1,3 @@
-/*
- * Final Project Marita Patricia (Patty) Zapata G00532697
- * IT308
- * Professor Rajendra
- */
 
 import java.awt.BorderLayout;
 import java.awt.Color;
